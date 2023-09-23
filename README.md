@@ -1,1 +1,1 @@
-# Elasticsearch-Project-2
+# InformationRetrieval-Elasticsearch2
